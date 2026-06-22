@@ -5,10 +5,11 @@ class Employee {
         int id = 101;
         String name = "John";
         double salary = 50000;
-        String department = "IT";
+        String department = "Non-It";
         String company = "Tech Solutions"; 
         String email = "john@techsolutions.com";
-        String location = "New York";
+        String location = "England";
+
 
         System.out.println("Employee ID : " + id);
         System.out.println("Employee Name : " + name);
